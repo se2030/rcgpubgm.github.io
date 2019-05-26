@@ -1,15 +1,16 @@
 ## RainVPN
 ## RAIN CITY GAMING
 ## HOSTS SIMPLE ANTI CHEAT PUBG MOBILE GLOBAL
-::1 ip6-localhost
-10.0.0.1 dlied1.qq.com
-10.0.0.1 cs.mbgame.gamesafe.qq.com
-10.0.0.1 down.qq.com
-10.0.0.1 cloud.gsdk.proximabeta.com
-10.0.0.1 cdn.wetest.qq.com
-10.0.0.1 oth.eve.mdt.qq.com
-10.0.0.1 check.googlezip.net
-10.0.0.1 vmp.qq.com
-10.0.0.1 file-igamecj.akamaized.net
-10.0.0.1 file.igamecj.com
-10.0.0.1 clientreport.gfm.qq.com
+#::1 ip6-localhost
+#10.0.0.1 dlied1.qq.com
+#10.0.0.1 cs.mbgame.gamesafe.qq.com
+#10.0.0.1 down.qq.com
+#10.0.0.1 cloud.gsdk.proximabeta.com
+#10.0.0.1 cdn.wetest.qq.com
+#10.0.0.1 oth.eve.mdt.qq.com
+#10.0.0.1 check.googlezip.net
+#10.0.0.1 vmp.qq.com
+#10.0.0.1 file-igamecj.akamaized.net
+#10.0.0.1 file.igamecj.com
+#10.0.0.1 clientreport.gfm.qq.com
+10.0.0.1 xnxx.com
